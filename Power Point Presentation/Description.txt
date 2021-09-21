@@ -1,2 +1,3 @@
 Powepoint presentation about self introduction; made using java. Pictures are not included on github.
+Programmed in Java.
 For IB CS SL course. 2018.
