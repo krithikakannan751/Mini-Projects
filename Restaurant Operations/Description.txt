@@ -1,2 +1,2 @@
 Created a program to mimic restaurant operations.
-For UTD SE 2336 Course.
+For UTD SE 2336 Course. 2020.
