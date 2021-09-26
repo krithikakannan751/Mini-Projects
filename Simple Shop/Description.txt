@@ -1,1 +1,4 @@
-
+ACM Projects Spring 2020
+Group Project: Krthika Kannan, Rajmeet Juneja, Rishi Chandra, Nivetha Narayanan
+Created a Chrome web extension which helps a user find their size from an online clothing store.
+Youtube Video: https://www.youtube.com/watch?v=3sWeisjQnYk
