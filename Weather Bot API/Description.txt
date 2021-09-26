@@ -2,3 +2,4 @@ This program creates a bot for users to interact with and get the weather of a l
 Programmed in Java.
 For UTD CS 2336 course.
 Fall 2020.
+*** Go to irc.freenode.net to use.
