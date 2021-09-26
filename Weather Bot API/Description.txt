@@ -3,3 +3,4 @@ Programmed in Java.
 For UTD CS 2336 course.
 Fall 2020.
 *** Go to irc.freenode.net to use.
+*** Join: #kkweatherbot.
