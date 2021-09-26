@@ -1,0 +1,4 @@
+App used to register students in a small sized Montessori school.
+IB SL CS course.
+Programmed in Java.
+Spring 2018.
