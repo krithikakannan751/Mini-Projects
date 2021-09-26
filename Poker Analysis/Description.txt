@@ -1,0 +1,4 @@
+This program analyzes a hand of 5 cards in poker and displays which rank the hand falls under.
+Programmed in C++.
+For UTD CS 1336 course.
+Fall 2019.
