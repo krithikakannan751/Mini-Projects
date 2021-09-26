@@ -1,0 +1,4 @@
+App used to schedule conferences in a small sized Montessori school.
+IB HL CS course.
+Programmed in Java.
+Spring 2019.
