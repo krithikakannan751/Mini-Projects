@@ -1,3 +1,4 @@
 Created a program to mimic restaurant operations.
 Programmed in C++.
-For UTD SE 2336 Course. 2020.
+For UTD CS 1337 Course. 
+2020.
